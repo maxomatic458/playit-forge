@@ -9,7 +9,7 @@ public enum TunnelType {
     MinecraftBedrock,
     @JsonProperty("valheim")
     Valheim,
-    @JsonProperty("valheim")
+    @JsonProperty("terraria")
     Terraria,
     @JsonProperty("starbound")
     Starbound,
