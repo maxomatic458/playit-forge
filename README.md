@@ -1,5 +1,8 @@
 # Playit.gg Minecraft mod
 
+> [!WARNING]  
+> While this mod works, it is recommended to use the playit program instead if possible as this offers more features and better routing (which can reduce overall latency)
+
 **Disclaimer**: This is an unofficial mod and is not affiliated with Playit.gg.
 
 [Modrinth Page](https://modrinth.com/mod/playit-gg)
